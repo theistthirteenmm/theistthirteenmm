@@ -26,7 +26,9 @@
 
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=theistthirteenmm&show_icons=true&locale=en" alt="hamedkolivand" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theistthirteenmm&" alt="hamedkolivand" />
 </div>
 
+<div>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theistthirteenmm&" alt="hamedkolivand" />
+</div>
 
