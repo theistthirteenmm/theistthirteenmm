@@ -23,12 +23,16 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> Java </a> 
-<div>
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=theistthirteenmm&show_icons=true&locale=en" alt="hamedkolivand" />
-</div>
 
-<div>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=theistthirteenmm&" alt="hamedkolivand" />
-</div>
-</div>
+### Github Stats ⚡
+
+ [![John's github stats](https://bad-apple-github-readme.vercel.app/api?username=johnmwendwa&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=johnmwendwa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![John Mwendwa's current streak](https://github-readme-streak-stats-blush.vercel.app/?user=johnmwendwa&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
