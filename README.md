@@ -17,7 +17,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/hamed-kolivand-7a9b12169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsalan nury" height="30" width="40" /></a>
+<a  href="https://www.linkedin.com/in/hamed-kolivand-7a9b12169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsalan nury" height="30" width="40" /></a>
 <a href="https://instagram.com/hakolivand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hakolivand" height="30" width="40" /></a>
 </p>
 
@@ -25,13 +25,13 @@
 <p align="center"> Java </a> 
 
 ### Github Stats ⚡
-
+<dive align="center">
  [![John's github stats](https://bad-apple-github-readme.vercel.app/api?username=theistthirteenmm&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=theistthirteenmm&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 [![John Mwendwa's current streak](https://github-readme-streak-stats-blush.vercel.app/?user=theistthirteenmm&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
+</div>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
