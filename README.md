@@ -23,7 +23,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> Java </a> 
-
+<div>
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=theistthirteenmm&show_icons=true&locale=en" alt="hamedkolivand" />
 </div>
@@ -31,4 +31,4 @@
 <div>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=theistthirteenmm&" alt="hamedkolivand" />
 </div>
-
+</div>
