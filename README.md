@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Express Java**
 
-- 📝 I regularly write articles on [Dev.to](Dev.to)
-
 - 💬 Ask me about **backend development**
 
 - 📫 How to reach me **theist.thirteenmm@gmail.com && ha-kolivand@hotmail.com**
