@@ -24,15 +24,17 @@
 <p align="center"> Java </a> 
 
 ### Github Stats ⚡
-<div  align="center" >
+<div  style="display: flex; flex-direction: row;">
  
  [![John's github stats](https://bad-apple-github-readme.vercel.app/api?username=theistthirteenmm&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=theistthirteenmm&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
+ [![John Mwendwa's current streak](https://github-readme-streak-stats-blush.vercel.app/?user=theistthirteenmm&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+
 </div>
 
-[![John Mwendwa's current streak](https://github-readme-streak-stats-blush.vercel.app/?user=theistthirteenmm&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
 <p align="center">
