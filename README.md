@@ -26,7 +26,16 @@
 ### Github Stats ⚡
 <div   align="center" >
  
- [![John's github stats](https://bad-apple-github-readme.vercel.app/api?username=theistthirteenmm&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+<br>
+
+<!-- <h3 align='center'><i>Social Media Handles</i></h3> -->
+<p float="left" align="center">
+<a href="https://www.linkedin.com/in/kshitij-srivastava-1719651aa/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codepen.io/Ks145"><img height="30" src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/Kshitij__10"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
+
+</p>
+<br>
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=theistthirteenmm&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
